@@ -1,4 +1,2 @@
-#!/bin/bash
-cd ../root
-[1A[cd ../../../../../../root
-[1A[Kcd ../../../../../../root
+#!/bint/bash
+cd ../../../../../../root
