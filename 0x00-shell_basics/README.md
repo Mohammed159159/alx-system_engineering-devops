@@ -4,3 +4,4 @@
 4. List files with hidden ones
 5. List files digit only
 6. Create directory in tmp
+7. Move betty
