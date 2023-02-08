@@ -5,3 +5,4 @@
 5. List files digit only
 6. Create directory in tmp
 7. Move betty
+8. Delete betty :(
