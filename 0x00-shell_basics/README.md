@@ -12,3 +12,4 @@
 12. File Type
 13. Symlink
 14. Update HTML files
+100. Move all files [A-Z]
