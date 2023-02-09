@@ -9,3 +9,4 @@
 9. Delete directory
 10. Back
 11. Lists
+12. File Type
