@@ -15,3 +15,4 @@
 100. Move all files [A-Z]
 101. Clean emacs
 102. Tree of directories
+103. Commas
