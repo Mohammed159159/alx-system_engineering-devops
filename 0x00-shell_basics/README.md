@@ -13,3 +13,4 @@
 13. Symlink
 14. Update HTML files
 100. Move all files [A-Z]
+101. Clean emacs
