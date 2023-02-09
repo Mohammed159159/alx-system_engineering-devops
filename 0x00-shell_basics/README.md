@@ -8,3 +8,4 @@
 8. Delete betty :(
 9. Delete directory
 10. Back
+11. Lists
