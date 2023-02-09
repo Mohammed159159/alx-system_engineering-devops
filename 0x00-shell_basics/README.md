@@ -6,3 +6,4 @@
 6. Create directory in tmp
 7. Move betty
 8. Delete betty :(
+9. Delete directory
