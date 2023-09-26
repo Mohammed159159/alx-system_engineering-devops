@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR%2==1' $1
+grep -n -E '*' | grep -E '\d*[13579]:' | tr -d '*[13579]:'
